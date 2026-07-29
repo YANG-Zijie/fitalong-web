@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title description">
+  <title id="title">FitAlong App Icon</title>
+  <desc id="description">A deep teal FitAlong F mark on a light mint background.</desc>
+
+  <rect width="1024" height="1024" fill="#D9F8F1"/>
+
+  <g id="fitalong-mark" fill="#07566B">
+    <rect x="260" y="217" width="140" height="596" rx="70"/>
+    <path d="M462 222H768C801 222 828 249 828 282C828 315 801 342 768 342H418L462 222Z"/>
+    <path d="M464 422H676C709 422 736 448 736 481C736 513 709 539 676 539H417L464 422Z"/>
+    <path d="M466 623H588C621 623 647 649 647 682C647 714 621 741 588 741H414L466 623Z"/>
+  </g>
+</svg>

@@ -2,8 +2,6 @@
 
 更新日期：2026-07-27
 
-English version: [`privacy-policy.en.md`](privacy-policy.en.md)
-
 FitAlong 面向成年一般健康人群提供健身训练辅助，不提供医疗诊断、治疗或康复服务。
 
 ## 本地保存的数据
@@ -76,6 +74,6 @@ Qwen 可以返回标题、摘要、热身、收操、教练提示、每日训练
 
 ## 联系方式
 
-如对本隐私政策或数据处理方式有疑问，请发送邮件至 `support@fitalong.com`。
+如对本隐私政策或数据处理方式有疑问，请发送邮件至 `yangzijie2026@gmail.com`。
 
 最后更新：2026 年 7 月 28 日。

@@ -3,7 +3,33 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  plugins: [react()],
+  plugins: [
+    react(),
+    {
+      name: 'fitalong-brand-icons',
+      transformIndexHtml() {
+        return [
+          {
+            tag: 'link',
+            attrs: {
+              rel: 'icon',
+              type: 'image/svg+xml',
+              href: '/fitalong-app-icon.svg',
+            },
+            injectTo: 'head',
+          },
+          {
+            tag: 'link',
+            attrs: {
+              rel: 'apple-touch-icon',
+              href: '/apple-touch-icon.png',
+            },
+            injectTo: 'head',
+          },
+        ]
+      },
+    },
+  ],
   build: {
     rollupOptions: {
       input: {

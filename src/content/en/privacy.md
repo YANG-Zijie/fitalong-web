@@ -2,8 +2,6 @@
 
 Last updated: July 27, 2026
 
-Simplified Chinese version: [`privacy-policy.md`](privacy-policy.md)
-
 FitAlong provides fitness training assistance for generally healthy adults. It does not provide medical diagnosis, treatment, or rehabilitation services.
 
 ## Data Stored on Your Device
@@ -76,6 +74,6 @@ The anonymous purchase identifier and bound service region are retained to prese
 
 ## Contact
 
-If you have questions about this Privacy Policy or FitAlong's data practices, email `support@fitalong.com`.
+If you have questions about this Privacy Policy or FitAlong's data practices, email `yangzijie2026@gmail.com`.
 
 Last updated: July 28, 2026.
