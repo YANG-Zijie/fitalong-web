@@ -12,7 +12,8 @@ export interface SiteContent {
     eyebrow: string
     hero: string
     intro: string
-    availability: string
+    appStoreLabel: string
+    appStoreUrl: string
     featuresTitle: string
     features: CopyPairs
     privacyLead: string
