@@ -16,7 +16,8 @@ const siteChinese = {
     hero: '一套能跟着你继续走的训练计划。',
     intro:
       '练搭会结合你的目标、时间、器械和训练反馈，生成清晰的四周计划；本地规则负责安全调整，AI 教练则由你选择是否启用。',
-    availability: '即将上线 App Store',
+    appStoreLabel: '在 App Store 下载',
+    appStoreUrl: 'https://apps.apple.com/cn/app/%E7%BB%83%E6%90%AD/id6793890300',
     featuresTitle: '让坚持训练变得更清楚',
     features: [
       ['清晰制定计划', '根据目标、经验、训练地点和可用器械，生成结构明确的四周训练计划。'],

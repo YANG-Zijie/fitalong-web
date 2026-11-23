@@ -63,7 +63,7 @@ function Home({ language }: { language: Language }) {
           <h1>{text.hero}</h1>
           <p className="hero-intro">{text.intro}</p>
           <div className="hero-actions">
-            <span className="availability">{text.availability}</span>
+            <a className="app-store-link" href={text.appStoreUrl}>{text.appStoreLabel}</a>
             <a className="text-link" href={route(language, 'support')}>{site.nav.support} <span aria-hidden="true">→</span></a>
           </div>
         </div>

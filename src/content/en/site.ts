@@ -16,7 +16,8 @@ const siteEnglish = {
     hero: 'A training plan that keeps moving with you.',
     intro:
       'FitAlong turns your goals, schedule, equipment, and feedback into a clear four-week plan—with safe on-device adjustments and an optional AI coach.',
-    availability: 'Coming soon on the App Store',
+    appStoreLabel: 'Download on the App Store',
+    appStoreUrl: 'https://apps.apple.com/us/app/fitalong/id6793890300',
     featuresTitle: 'Everything you need to keep going',
     features: [
       ['Plan with clarity', 'A structured four-week plan for your goals, experience, location, and available equipment.'],
